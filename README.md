@@ -12,9 +12,9 @@ currently running on it :
 
 
 plans for homelab :
-jellyfin or plex server to host my media
-firewall with pfSense
-cybersecurity pentesting lab (kali vm, win 10 vm, pfSense for firewall)
-NAS server
+- jellyfin or plex server to host my media
+- firewall with pfSense
+- cybersecurity pentesting lab (kali vm, win 10 vm, pfSense for firewall)
+- NAS server
 
 my goal of my homelab is to not only gain experience for my career, but to also host things that i frequently use all by myself, for complete control over what i can do with it all.
