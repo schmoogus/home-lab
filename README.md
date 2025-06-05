@@ -5,6 +5,13 @@ in my homelab, it currently consists of dell hp elitedesk, running with 32gb of 
 
 nothing major at all, but upgrades will come in the future.
 
+future hardware upgrades
+- EVERYTHING.
+- server rack, nothing tall, just a mini rack
+- more RAM, more storage (especially if i do a NAS server)
+- router / ethernet access (currently running thru wifi)
+- proxmox as a base for all my servers, no more running straight ubuntu
+
 currently running on it :
 - minecraft 1.21.5 server
 - hosted by AMP on Ubuntu 24.04.2 LTS
